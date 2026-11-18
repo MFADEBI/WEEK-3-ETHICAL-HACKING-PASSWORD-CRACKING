@@ -49,7 +49,8 @@ These practical exercises strengthened my understanding of password security and
 vulnerabilities within authorized environments.
 
 
-Another step forward in my cybersecurity journey!**
+Another step forward in my cybersecurity journey!
+
 
 Thank you NETWORKWALKS and the team for this opportunity.
 
