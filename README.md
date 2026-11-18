@@ -52,6 +52,7 @@ vulnerabilities within authorized environments.
 Another step forward in my cybersecurity journey!
 
 
+
 Thank you NETWORKWALKS and the team for this opportunity.
 
 Screenshots of the password-protected PDF files and the successful unlocking process are attached as practical evidence.
